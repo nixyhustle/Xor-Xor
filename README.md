@@ -1,4 +1,4 @@
-# xor_xor
+# Xor-Xor
 
 Python program for simple XOR encoding/decoder.
 
