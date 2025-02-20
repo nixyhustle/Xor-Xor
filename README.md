@@ -2,6 +2,4 @@
 
 Python program for simple XOR encoding/decoding.
 
-Usage: python xor_xor.py <input_file> <key> <output_file>
-
 
